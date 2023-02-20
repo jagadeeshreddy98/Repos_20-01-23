@@ -1,7 +1,11 @@
 this is my second demo
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 second changes
+=======
+second changes has been made
+>>>>>>> Stashed changes
 =======
 second changes has been made
 >>>>>>> Stashed changes
